@@ -1,0 +1,4 @@
+A=5, B=3
+1: ZER B 4 2
+2: ADD A 3
+3: SUB B 1
