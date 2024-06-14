@@ -1,4 +1,0 @@
-A=0, C=0
-1: ZER B 2 4
-2: ADD A 3
-3: SUB B 1

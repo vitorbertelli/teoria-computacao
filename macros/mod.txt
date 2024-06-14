@@ -1,8 +1,0 @@
-C=0, D=0
-1: MOV C A 2
-2: ZER B 8 3
-3: ZER A 7 4
-4: LESS C B 6 5
-5: REG_SUB C B 4
-6: ZER C 7 8
-7: ADD D 8

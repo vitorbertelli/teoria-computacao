@@ -1,9 +1,0 @@
-A=3, B=5, C=0, D=0, E=0
-1: MOV C A 2
-2: MOV D B 3
-3: ZER C 7 4
-4: ZER D 9 5
-5: SUB C 6
-6: SUB D 3
-7: ZER D 9 8
-8: ADD E 9
